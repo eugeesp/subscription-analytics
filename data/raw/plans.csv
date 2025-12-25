@@ -1,0 +1,5 @@
+plan_id,plan_name,tier,price,cost_per_subscription,active_flag
+1,Basic,basic,10.0,1.0,True
+2,Pro,pro,25.0,2.5,True
+3,Premium,premium,40.0,4.0,True
+4,Pro Year,pro,250.0,20.0,True
