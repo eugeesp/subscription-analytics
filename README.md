@@ -1,5 +1,25 @@
 # Subscription Analytics Dashboard
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](docs/01_executive_overview.png)
+
+### Revenue & Growth
+![Revenue & Growth](docs/02_revenue_growth.png)
+
+### Monthly Recurring Revenue (MRR)
+![MRR](docs/03_mrr.png)
+
+### Churn Analysis
+![Churn Analysis](docs/04_churn_analysis.png)
+
+### Costs & Margin
+![Costs & Margin](docs/05_costs_margin.png)
+
+### Business Insights & Recommendations
+![Business Insights](docs/06_business_insights.png)
+
 This project presents an end-to-end analytics solution for a subscription-based business, focused on revenue growth, recurring revenue stability (MRR), churn behavior, and cost efficiency.
 
 The objective is to provide a decision-oriented analytical framework that mirrors how subscription businesses monitor performance, identify risks, and drive strategic actions.
